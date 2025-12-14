@@ -21,7 +21,7 @@
           <NuxtLink
             v-for="(section, index) in content.sections"
             :key="section.title"
-            :to="localePath(section.href)"
+            :to="section.href ? localePath(section.href) : '#'"
             class="px-8 py-6 hover:bg-white/5 transition-colors group relative"
             :class="{ 'border-r border-gray-400/30': index < content.sections.length - 1 }"
           >
