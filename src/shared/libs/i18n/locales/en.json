@@ -1,0 +1,347 @@
+{
+  "common": {
+    "comingSoon": "Coming soon...",
+    "learnMore": "Learn more"
+  },
+  "hero": {
+    "title": "Documents Trusted by Regulators",
+    "subtitle": "LIDs, KYC packages and tax forms delivered in 24 hours.",
+    "description": "International compliance, full refund if delayed.",
+    "orderDocuments": "Order Documents",
+    "viewSolutions": "View Solutions"
+  },
+  "features": {
+    "title": "Ready to get started?",
+    "description": "Join thousands of satisfied customers today",
+    "feature": "Feature"
+  },
+  "about": {
+    "title": "About company",
+    "description": "At Kozmap, we simplify compliance. We translate intricate identity and regulatory demands into friction-free, regulator-trusted solutions—bridging complex law and real-world execution with uncompromising precision."
+  },
+  "header": {
+    "nav": {
+      "home": "Home",
+      "solutions": "Solutions",
+      "coaching": "Coaching",
+      "articles": "Articles",
+      "products": "Products"
+    },
+    "contact": "Contact us"
+  },
+  "megamenu": {
+    "solutions": {
+      "scans": {
+        "title": "Scans & LIDs",
+        "description": "High-resolution scans and tamper-proof cards that pass any manual check."
+      },
+      "kyc": {
+        "title": "KYC Packs",
+        "description": "Complete identity bundles that clear global KYC/AML checks on the first submission."
+      },
+      "paperwork": {
+        "title": "Paperwork",
+        "description": "Audit-proof forms and statements delivered in 24 h, guaranteed correct or free."
+      },
+      "featured": {
+        "title": "Post Thumbnail",
+        "description": "High-resolution scans and tamper-proof cards that pass any manual check."
+      }
+    },
+    "articles": {
+      "types": {
+        "title": "Articles Types",
+        "all": "All Articles",
+        "tutorials": "Free Tutorials",
+        "news": "News",
+        "guides": "Guides"
+      },
+      "categories": {
+        "title": "Categories",
+        "tech": "Technology",
+        "business": "Business",
+        "dev": "Development",
+        "design": "Design"
+      },
+      "featured": {
+        "title": "Popular Article Header",
+        "description": "Discover the latest trends, insights, and best practices in technology and business."
+      }
+    },
+    "products": {
+      "courses": {
+        "title": "All Courses",
+        "viewAll": "View all courses"
+      },
+      "categories": {
+        "title": "Product Categories",
+        "webDev": "Web Development",
+        "mobile": "Mobile Apps",
+        "data": "Data Science",
+        "ai": "AI & ML",
+        "cloud": "Cloud Computing",
+        "security": "Cybersecurity"
+      },
+      "featured": {
+        "title": "Popular Course Header",
+        "description": "Master in-demand skills with our comprehensive courses taught by industry experts."
+      }
+    },
+    "coaching": {
+      "services": {
+        "title": "Coaching Services",
+        "oneOnOne": "1-on-1 Coaching",
+        "group": "Group Sessions",
+        "corporate": "Corporate Training"
+      },
+      "expertise": {
+        "title": "Expertise Areas",
+        "career": "Career Development",
+        "technical": "Technical Skills",
+        "leadership": "Leadership"
+      },
+      "featured": {
+        "title": "Start Your Journey",
+        "description": "Get personalized coaching from experienced professionals to accelerate your career growth."
+      }
+    }
+  },
+  "pages": {
+    "solutions": {
+      "title": "Solutions"
+    },
+    "coaching": {
+      "title": "Coaching",
+      "coursesTitle": "All Courses",
+      "course": {
+        "enroll": "Enroll",
+        "status": "Status",
+        "tabs": {
+          "overview": "Overview",
+          "about": "About",
+          "courses": "Courses"
+        },
+        "whatYoullLearn": "What you'll learn",
+        "skillsYoullGain": "Skills you'll gain",
+        "specialization": "Specialization",
+        "similarCourses": "Similar courses",
+        "courseNumber": "Course #{number}",
+        "learning": {
+          "buildSoftware": "How to build software with AI",
+          "promptEngineering": "Prompt Engineering strategies",
+          "deployApps": "Deploying apps to the web",
+          "aiTools": "Working with AI tools (GitHub Copilot, Cursor, ChatGPT)",
+          "webDevelopment": "Web development fundamentals (HTML, CSS, JavaScript)",
+          "versionControl": "Version control systems and Git",
+          "testing": "Testing and debugging applications",
+          "uiDesign": "User interface design principles",
+          "apiIntegration": "API integration and working with data"
+        },
+        "skills": {
+          "buildSoftware": "How to build software with AI",
+          "promptEngineering": "Prompt Engineering strategies",
+          "deployApps": "Deploying apps to the web",
+          "aiTools": "Working with AI tools",
+          "webDevelopment": "Web development"
+        },
+        "specializationText1": "This specialization is designed for beginners who want to build software using AI—no coding experience required. You'll learn the fundamentals of vibe coding and how to use tools like GitHub Copilot, Cursor, and ChatGPT to turn your ideas into real, working apps.",
+        "specializationText2": "Whether you're a marketer, designer, accountant, or creative professional, this course will teach you how to leverage AI to create software solutions faster and smarter.",
+        "specializationText3": "The final course introduces core technologies like HTML, CSS, and JavaScript with a focus on high-level understanding. The skills gained will enable you to confidently build apps using vibe coding IDE or professional tools like Windsurf, Cline, or Claude Code.",
+        "specializationText4": "You'll learn to create full-featured web applications, understanding core programming concepts and leveraging AI capabilities to accelerate development."
+      }
+    },
+    "articles": {
+      "title": "Articles"
+    },
+    "products": {
+      "title": "Products"
+    },
+    "tutorials": {
+      "title": "Tutorials"
+    }
+  },
+  "store": {
+    "title": "Our Products",
+    "subtitle": "Select a product type to pinpoint the exact identity or document solution your business needs.",
+    "product": {
+      "submitRequest": "Submit a request",
+      "orderTerms": "Order terms and conditions",
+      "advantages": "Advantages / Features",
+      "otherProducts": "Other products"
+    },
+    "filterModal": {
+      "title": "Estimated cost calculation",
+      "price": "$ Price",
+      "enroll": "Enroll",
+      "questionOnOption": "Question on option"
+    }
+  },
+  "advantages": {
+    "regulatorTrusted": "Regulator-Trusted Outputs",
+    "tamperProof": "Tamper-Proof Materials",
+    "lightningTurnaround": "Lightning 24-h Turnaround",
+    "encryption": "End-to-End Encryption",
+    "realTimeTracking": "Real-Time Order Tracking",
+    "prioritySupport": "Priority Human Support"
+  },
+  "keyMetrics": {
+    "title": "Key Metrics",
+    "metrics": {
+      "pages": {
+        "value": "12.4 M+",
+        "description": "compliance pages printed\nsince launch"
+      },
+      "cards": {
+        "value": "35 K",
+        "description": "tamper-proof ID cards\nproduced each year"
+      },
+      "turnaround": {
+        "value": "24 h",
+        "description": "average turnaround, SLA met\nin 99.2% of cases"
+      }
+    }
+  },
+  "flagshipSolutions": {
+    "title": "Our Flagship Solutions",
+    "subtitle": "Cutting-edge identity and compliance solutions, engineered for seamless verification and maximum trust.",
+    "scans": {
+      "title": "Scans & LIDs",
+      "description": "High-resolution scans and tamper-proof cards that pass any manual check."
+    },
+    "kyc": {
+      "title": "KYC Packs",
+      "description": "Complete identity bundles that clear global KYC/AML checks on the first submission."
+    },
+    "paperwork": {
+      "title": "Paperwork",
+      "description": "Audit-proof forms and statements delivered in 24 h, guaranteed correct or free."
+    }
+  },
+  "articlesHighlight": {
+    "subtitle": "Latest How-To Guides & Tutorials You Can't Miss",
+    "title": "Fresh drops every week, curated by Kozmap experts",
+    "viewAll": "All articles"
+  },
+  "reviews": {
+    "title": "Reviews",
+    "loadMore": "Load More",
+    "more": "More..."
+  },
+  "courses": {
+    "title": "Learn from the Experts",
+    "subtitle": "Master Compliance with Kozmap Coaching",
+    "viewAll": "View All Courses"
+  },
+  "products": {
+    "title": "Products",
+    "viewAll": "All Products",
+    "status": {
+      "popular": "Popular",
+      "new": "New"
+    }
+  },
+  "faq": {
+    "title": "Frequently asked questions"
+  },
+  "fastTrack": {
+    "title": {
+      "ready": "Ready.",
+      "set": "Set.",
+      "delivered": "Delivered."
+    },
+    "button": "Learn More",
+    "description": "Fast Track is our lightning-fast lane for digital products: get a working result in 24 h, top-priority processing and 100% money-back guarantee if we miss the deadline."
+  },
+  "footer": {
+    "title": "Let's Start the Conversation",
+    "allArticles": "All articles",
+    "services": "Services",
+    "scansAndLids": "Scans and Lids",
+    "kyc": "KYC",
+    "paperworks": "Paperworks",
+    "agreements": "Agreements",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "connect": "Connect"
+  },
+  "contactModal": {
+    "text": "Want to talk? Leave your contact info and we'll get back to you.",
+    "fullName": "Full Name",
+    "fullNamePlaceholder": "Enter your full name",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email",
+    "send": "Send"
+  },
+  "history": {
+    "title": "Our Track Record",
+    "subtitle": "Creating regulator-trusted documents that get your business approved—first time, everywhere.",
+    "milestones": {
+      "2017": {
+        "year": "2017",
+        "label": "Launch",
+        "description": "Born to make compliance paperwork painless for fintech pioneers."
+      }
+    }
+  },
+  "textContent": {
+    "paragraph1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+    "paragraph2": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown",
+    "paragraph3": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown ever since the 1500s, when an unknown",
+    "paragraph4": "Lorem Ipsum is simply dummy text of the printing",
+    "paragraph5": "Lorem Ipsum is simply dummy text of the printing Lorem Ipsum is simply dummy text of the printing Lorem Ipsum is simply dummy text of the printing"
+  },
+  "historyProjects": {
+    "project1": {
+      "name": "Name of Project",
+      "tag": "Project Tag"
+    },
+    "project2": {
+      "name": "Name of Project",
+      "tag": "Project Tag"
+    },
+    "project3": {
+      "name": "Name of Project",
+      "tag": "Project Tag"
+    },
+    "project4": {
+      "name": "Name of Project",
+      "tag": "Project Tag"
+    },
+    "project5": {
+      "name": "Name of Project",
+      "tag": "Project Tag"
+    },
+    "project6": {
+      "name": "Name of Project",
+      "tag": "Project Tag"
+    }
+  },
+  "tutorials": {
+    "title": "Tutorials",
+    "searchPlaceholder": "Search",
+    "noResults": "No tutorials found",
+    "tabs": {
+      "all": "All",
+      "productType": "Product type"
+    },
+    "filterModal": {
+      "title": "Select Categories"
+    }
+  },
+  "kyc": {
+    "title": "KYC Features",
+    "subtitle": "Unified identity and document components designed to clear platform KYC/AML on the first submission.",
+    "features": {
+      "feature1": "We deliver glare-free, spec-perfect scans of Passports, National IDs, and Driver's licenses with crisp MRZ/QR and clearly legible key fields",
+      "feature2": "Utility bills, Bank statements, and Tax letters styled to platform rules—correct issuer, dates, and address, easy to review at a glance.",
+      "feature3": "Safe EXIF profiles (sanitized or custom), portal-ready JPEG/PNG/PDF presets, and tight size control for smooth uploads",
+      "feature4": "ID-matched portraits in neutral light, plus optional blink/turn micro-sequences that satisfy liveness prompts without rework."
+    },
+    "advantages": {
+      "title": "Review-Ready \nAdvantages",
+      "item1": "First-Pass Approval Focus — Assets tuned to pass review on the first submission.",
+      "item2": "Data Consistency — names, DoB, numbers, and expiry aligned across every asset.",
+      "item3": "24h SLA with Refund — deadline guarantee for urgent cases."
+    }
+  }
+}
