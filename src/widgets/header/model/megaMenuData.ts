@@ -6,7 +6,7 @@ export const megaMenuData: Record<string, MegaMenuContent> = {
       {
         title: 'megamenu.solutions.scans.title',
         description: 'megamenu.solutions.scans.description',
-        href: '/solutions/scans'
+        href: '/solutions/scans-and-lists'
       },
       {
         title: 'megamenu.solutions.kyc.title',
@@ -16,7 +16,7 @@ export const megaMenuData: Record<string, MegaMenuContent> = {
       {
         title: 'megamenu.solutions.paperwork.title',
         description: 'megamenu.solutions.paperwork.description',
-        href: '/solutions/paperwork'
+        href: '/solutions/paper-work'
       }
     ]
   },

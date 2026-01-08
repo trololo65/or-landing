@@ -110,6 +110,151 @@
     "solutions": {
       "title": "Solutions"
     },
+    "scansAndLists": {
+      "title": "Scan and Lids",
+      "tabs": {
+        "northAmerica": "North America",
+        "europeUnion": "Europe Union"
+      },
+      "lidsDescription": "LIDs are physical, security-grade ID cards with durable substrates, holographic layers, and precise personalization for in-hand checks.",
+      "scansDescription": "Scans are high-fidelity digital copies prepared for online submission with glare-free images, readable MRZ/QR, and portal-ready sizing.",
+      "sharedDescription": "Both share the same identity data and reviewer-friendly layout for fast acceptance.",
+      "lid": "Lid",
+      "scan": "Scan",
+      "printingHardware": {
+        "title": "Printing Hardware",
+        "description": "Beyond Standard Printing Body: We don't rely on consumer-grade office units. Our production line is powered by industrial Offset and UV-curable printing stations. This setup ensures micron-level precision, vibrant color reproduction compliant with ISO standards, and durability that withstands aggressive wear and tear.",
+        "feature1": "High-Definition Offset Printing",
+        "feature2": "Industrial UV Inkjet Systems",
+        "feature3": "Microtext & Guilloche capability"
+      },
+      "laserLamination": {
+        "title": "Laser & Lamination",
+        "description": "Surgical Precision Finishing Body: The difference is in the depth. We utilize fiber-laser engraving systems and thermal lamination units to fuse materials into a solid, inseparable monolith. From tactile laser etching to secure edge sealing, our machinery handles the complex physics of modern card structure.",
+        "feature1": "Fiber Laser Engraving",
+        "feature2": "Thermal Transfer Lamination",
+        "feature3": "Polycarbonate Fusing"
+      },
+      "designMaterialArchitecture": {
+        "title": "Design & Material Architecture",
+        "description": "Authenticity is a seamless fusion of software and substrate. We don't trace existing documents; we engineer them. Our process begins with 100% hand-drawn vector reconstruction, ensuring zero-pixelation clarity at any scale. This digital architecture is then physically fused into restricted-grade materials—Teslin® and multi-ply Polycarbonate—creating a singular, inseparable asset that feels as authentic as it looks.",
+        "vectorCore": {
+          "title": "Vector Core",
+          "description": "Zero scans. Reconstructed using mathematical curves for infinite sharpness."
+        },
+        "restrictedSubstrates": {
+          "title": "Restricted Substrates",
+          "description": "Industrial-grade Teslin® & Polycarbonate fusing for maximum durability."
+        },
+        "opticalSecurity": {
+          "title": "Optical Security",
+          "description": "Custom OVI and holographic overlays that shift under light."
+        },
+        "tactileVerification": {
+          "title": "Tactile Verification",
+          "description": "Raised embossing and structural lamination you can verify by touch."
+        }
+      },
+      "aiValidation": {
+        "title": "AI-Driven Validation Logic",
+        "description": "A card is useless if it doesn't scan. We use proprietary AI software to generate PDF417 and QR codes that fully adhere to AAMVA standards. Our system calculates checksums and formats data structure exactly as issuing authorities do, ensuring seamless verification across scanning devices.",
+        "status": "Status: 100% Scannable & Verifiable"
+      }
+    },
+    "paperwork": {
+      "hero": {
+        "title": "Documents Trusted by Regulators",
+        "description": "LIDs, KYC packages and tax forms delivered in 24 hours. International compliance, full refund if delayed.",
+        "orderDocuments": "Order Documents",
+        "viewSolutions": "View Solutions"
+      },
+      "tabs": {
+        "paystubs": {
+          "label": "Paystubs",
+          "title": "What Paystubs Cover",
+          "accordion": {
+            "whyWork": "Why Our Paystubs Work",
+            "whyWorkDesc": "Accurate breakdown of gross pay, taxes, deductions, and net pay per period, aligned with employer details, pay dates, and year-to-date totals.",
+            "standard": "Standard & With Site Ledger",
+            "standardDesc": "Standard paystubs with detailed breakdowns. Option to include site ledger for additional verification.",
+            "sets": "Sets and Period Packs",
+            "setsDesc": "Complete sets of paystubs covering multiple pay periods. Perfect for comprehensive documentation needs.",
+            "customization": "Customization & Localization",
+            "customizationDesc": "Fully customizable paystubs tailored to your specific requirements. Localized formats for different regions.",
+            "delivery": "Delivery & Formats",
+            "deliveryDesc": "Multiple delivery formats available including PDF, printed copies, and digital versions. Fast 24-hour turnaround."
+          }
+        },
+        "statements": {
+          "label": "Statements",
+          "title": "What Statements Cover",
+          "accordion": {
+            "whyWork": "Why Our Statements Work",
+            "whyWorkDesc": "Comprehensive financial statements with accurate transaction records, balances, and account details.",
+            "standard": "Standard & With Site Ledger",
+            "standardDesc": "Standard statements with detailed transaction history. Option to include site ledger.",
+            "sets": "Sets and Period Packs",
+            "setsDesc": "Complete sets of statements covering multiple periods for comprehensive documentation.",
+            "customization": "Customization & Localization",
+            "customizationDesc": "Fully customizable statements tailored to your needs. Localized formats available.",
+            "delivery": "Delivery & Formats",
+            "deliveryDesc": "Multiple delivery formats including PDF and printed copies. Fast 24-hour turnaround."
+          }
+        },
+        "taxes": {
+          "label": "Taxes",
+          "title": "What Tax Forms Cover",
+          "accordion": {
+            "whyWork": "Why Our Tax Forms Work",
+            "whyWorkDesc": "Accurate tax forms compliant with regulatory standards. Complete documentation for tax purposes.",
+            "standard": "Standard & With Site Ledger",
+            "standardDesc": "Standard tax forms with detailed information. Option to include site ledger.",
+            "sets": "Sets and Period Packs",
+            "setsDesc": "Complete sets of tax forms covering multiple tax periods.",
+            "customization": "Customization & Localization",
+            "customizationDesc": "Fully customizable tax forms tailored to your requirements. Localized formats available.",
+            "delivery": "Delivery & Formats",
+            "deliveryDesc": "Multiple delivery formats available. Fast 24-hour turnaround."
+          }
+        },
+        "bills": {
+          "label": "Bills",
+          "title": "What Bills Cover",
+          "accordion": {
+            "whyWork": "Why Our Bills Work",
+            "whyWorkDesc": "Accurate utility bills, invoices, and statements with proper formatting and details.",
+            "standard": "Standard & With Site Ledger",
+            "standardDesc": "Standard bills with detailed breakdowns. Option to include site ledger.",
+            "sets": "Sets and Period Packs",
+            "setsDesc": "Complete sets of bills covering multiple billing periods.",
+            "customization": "Customization & Localization",
+            "customizationDesc": "Fully customizable bills tailored to your needs. Localized formats available.",
+            "delivery": "Delivery & Formats",
+            "deliveryDesc": "Multiple delivery formats including PDF and printed copies. Fast 24-hour turnaround."
+          }
+        },
+        "other": {
+          "label": "Other Paperwork",
+          "title": "What Other Paperwork Covers",
+          "accordion": {
+            "whyWork": "Why Our Paperwork Works",
+            "whyWorkDesc": "Comprehensive documentation solutions for various paperwork needs with accurate formatting.",
+            "standard": "Standard & With Site Ledger",
+            "standardDesc": "Standard paperwork with detailed information. Option to include site ledger.",
+            "sets": "Sets and Period Packs",
+            "setsDesc": "Complete sets of paperwork covering multiple periods.",
+            "customization": "Customization & Localization",
+            "customizationDesc": "Fully customizable paperwork tailored to your requirements. Localized formats available.",
+            "delivery": "Delivery & Formats",
+            "deliveryDesc": "Multiple delivery formats available. Fast 24-hour turnaround."
+          }
+        }
+      },
+      "precisionRendering": {
+        "title": "Precision Rendering Engine",
+        "description": "We don't just overlay text; we engineer it. Our system utilizes dynamic typesetting to adjust layouts in real-time, ensures vector-native output for infinite sharpness with zero rasterization, and applies bank-grade font matching (OCR-B, E13B) to guarantee total visual compliance with industry standards."
+      }
+    },
     "coaching": {
       "title": "Coaching",
       "coursesTitle": "All Courses",
